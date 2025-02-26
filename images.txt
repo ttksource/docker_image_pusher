@@ -1,1 +1,1 @@
-google/deepvariant:lastest
+google/deepvariant:"1.8.0"
