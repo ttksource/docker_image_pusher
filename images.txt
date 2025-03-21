@@ -1,1 +1,2 @@
-google/deepvariant:1.8.0
+# google/deepvariant:1.8.0
+ensemblorg/ensembl-vep
