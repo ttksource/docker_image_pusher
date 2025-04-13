@@ -1,2 +1,2 @@
 # google/deepvariant:1.8.0
-ensemblorg/ensembl-vep
+google/deepvariant:lastest
