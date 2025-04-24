@@ -1,2 +1,2 @@
 # google/deepvariant:1.8.0
-google/deepvariant
+kanghu/hite:3.3.2
