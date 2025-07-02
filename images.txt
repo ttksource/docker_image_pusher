@@ -3,3 +3,4 @@
 # google/deepvariant:1.8.0
 #kanghu/hite:3.3.3
 nservant/hicpro:latest
+zikunyang/vampire-tr:latest
